@@ -1,10 +1,7 @@
 #include<iostream> 
 using namespace std;
-
 int main()
 {
-    std::cout<<"Hello World Sanket";
-
-
-    return 1;
+    cout<<"Hello World Sanket";
+    return 0;
 }
